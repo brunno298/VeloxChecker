@@ -3,7 +3,7 @@
 
 VeloxChecker é uma ferramenta em Python para testar a velocidade da sua conexão à Internet.
 
-## Instalação
+# Instalação
 
 
 git clone https://github.com/brunno298/VeloxChecker.git
